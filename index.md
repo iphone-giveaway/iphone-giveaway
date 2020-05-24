@@ -1,14 +1,23 @@
 <!--
 Using API Key: 844bd5c099fd4930fc11 | ItToken: 889216
 -->
-<html>
+<html><head>	
     <title>Google Play Gift Cards</title>
-<head>	
 <meta name="description" content="" />
 <meta property="og:title" content="Google Play Gift Cards" />
 <meta property="og:description" content="" />
 <meta name="referrer" content="no-referrer">
 <meta name="robots" content="noindex,nofollow">
+	<!-- Ours Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143262652-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143262652-6');
+</script>
+
 <!-- Analytics -->
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
