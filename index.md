@@ -184,7 +184,7 @@ h1 {
                 <img class="showContentLocker" src="https://i.imgur.com/Vzm9d9k.png" width="100%" height="100%">
             </div>
             <div class="three">
-                <img class="showContentLocker"src="https://i.imgur.com/fwlTDEy.png" width="100%" height="100%">
+                <img class="showContentLocker" src="https://i.imgur.com/fwlTDEy.png" width="100%" height="100%">
             </div>
             <p>Please choose your desired value above.</p>
         </div>
