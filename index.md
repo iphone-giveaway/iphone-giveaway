@@ -184,8 +184,6 @@ h1 {
         
 
     </body>
-</html>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript">
     var CPABUILDSETTINGS={"it":889216,"key":"042e2"};
@@ -217,7 +215,8 @@ h1 {
         ga('customTemplateGlobal.set', 'dimension1', typeof window.CPBContentLocker === 'function' ? 0 : 1);
         ga('customTemplateGlobal.send', 'pageView');
     }
-
+	
+	</html>
 
 </script>
 </body>
