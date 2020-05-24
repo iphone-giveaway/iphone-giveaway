@@ -1,5 +1,4 @@
 <html>
-
 <head>	
 <title> Google Play Gift Cards </title>
 <meta name="description" content="" />
@@ -16,7 +15,7 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-143262652-6');
-</script>
+</script>i
 
 <!-- Analytics -->
 <script>
@@ -170,6 +169,8 @@ h1 {
 }
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Google Play Gift Cards</title>
+
 </head>
 <body>
 <html>
