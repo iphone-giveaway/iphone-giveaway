@@ -1,15 +1,13 @@
-
 <html>
 
 <head>	
-
 <title> Google Play Gift Cards </title>
-
 <meta name="description" content="" />
 <meta property="og:title" content="Google Play Gift Cards" />
 <meta property="og:description" content="" />
 <meta name="referrer" content="no-referrer">
 <meta name="robots" content="noindex,nofollow">
+	
 	<!-- Ours Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143262652-6"></script>
 <script>
