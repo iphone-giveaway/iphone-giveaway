@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!--
 Using API Key: 844bd5c099fd4930fc11 | ItToken: 889216
 -->
@@ -163,7 +162,6 @@ h1 {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<!DOCTYPE html>
 <html>
     <head>
         <link href="style.css" rel="stylesheet" type="text/css">
