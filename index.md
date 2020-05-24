@@ -161,13 +161,7 @@ h1 {
 
 </head>
 <body>
-<html>
-    <head>
-        <link href="style.css" rel="stylesheet" type="text/css">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Google Play Gift Cards</title>
-    </head>
-    <body>
+
         <div class="content">
             <img src="https://i.imgur.com/pat3tv6.png" width="90%" height="90%">
             <h1>FREE GOOGLE PLAY GIFT CARDS</h1>
