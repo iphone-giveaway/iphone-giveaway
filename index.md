@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>	
 <title> Google Play Gift Cards </title>
